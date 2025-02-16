@@ -5,4 +5,4 @@ I just made the bat file, all the software side stuff is done by [fuzzdeveloper]
 
 
 Credits:
-[https://github.com/fuzzdeveloper/IdleShutdown/releases/latest](IdleShutdown)
+[IdleShutdown](https://github.com/fuzzdeveloper/IdleShutdown/releases/latest)
